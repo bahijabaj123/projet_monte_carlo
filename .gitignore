@@ -218,3 +218,18 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+report/main.pdf
+
+# OS
+.DS_Store
+Thumbs.db
